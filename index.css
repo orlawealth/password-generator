@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+.container{
+    display: flex;
+}
+
+.container > input{
+    margin: 10px;
+}
